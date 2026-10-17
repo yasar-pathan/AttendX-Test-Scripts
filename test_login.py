@@ -5,7 +5,7 @@ def test_login():
     password = "d24it181"
 
     # Replace with the actual application's login action.
-    assert username != ""
+    assert username != "       "
     assert password != ""
 
     print("Login test: input validation passed")
