@@ -32,4 +32,8 @@ python test_attendance.py
 
 Note: These are demonstration scripts and require
 application integration for end-to-end testing.
+
+## Version Control Demonstration
+This project demonstrates local commits, remote pushes,
+web-based editing, and pulling changes from GitHub.
     
